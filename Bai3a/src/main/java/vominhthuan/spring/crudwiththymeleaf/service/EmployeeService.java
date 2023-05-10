@@ -1,6 +1,6 @@
-package com.example.crudwiththymeleaf.service;
+package vominhthuan.spring.crudwiththymeleaf.service;
 
-import com.example.crudwiththymeleaf.model.Employee;
+import vominhthuan.spring.crudwiththymeleaf.model.Employee;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package com.example.crudwiththymeleaf.model;
+package vominhthuan.spring.crudwiththymeleaf.model;
 
 import jakarta.persistence.*;
 

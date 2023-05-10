@@ -1,6 +1,6 @@
-package com.example.crudwiththymeleaf.repository;
+package vominhthuan.spring.crudwiththymeleaf.repository;
 
-import com.example.crudwiththymeleaf.model.Employee;
+import vominhthuan.spring.crudwiththymeleaf.model.Employee;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

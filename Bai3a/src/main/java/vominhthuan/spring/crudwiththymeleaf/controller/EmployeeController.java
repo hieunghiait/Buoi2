@@ -1,7 +1,7 @@
-package com.example.crudwiththymeleaf.controller;
+package vominhthuan.spring.crudwiththymeleaf.controller;
 
-import com.example.crudwiththymeleaf.model.Employee;
-import com.example.crudwiththymeleaf.service.EmployeeService;
+import vominhthuan.spring.crudwiththymeleaf.model.Employee;
+import vominhthuan.spring.crudwiththymeleaf.service.EmployeeService;
 import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;

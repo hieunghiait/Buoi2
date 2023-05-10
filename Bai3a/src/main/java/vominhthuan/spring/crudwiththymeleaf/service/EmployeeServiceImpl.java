@@ -1,7 +1,7 @@
-package com.example.crudwiththymeleaf.service;
+package vominhthuan.spring.crudwiththymeleaf.service;
 
-import com.example.crudwiththymeleaf.model.Employee;
-import com.example.crudwiththymeleaf.repository.EmployeeRepository;
+import vominhthuan.spring.crudwiththymeleaf.model.Employee;
+import vominhthuan.spring.crudwiththymeleaf.repository.EmployeeRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
