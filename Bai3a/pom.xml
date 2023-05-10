@@ -8,8 +8,8 @@
         <version>3.0.6</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.example</groupId>
-    <artifactId>CRUD-with-Thymeleaf</artifactId>
+    <groupId>vominhthuan.spring</groupId>
+    <artifactId>Bai3a</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>CRUD with Thymeleaf</name>
     <description>CRUD with Thymeleaf</description>
